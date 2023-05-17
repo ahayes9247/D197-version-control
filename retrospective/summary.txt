@@ -1,0 +1,5 @@
+Per terminal instructions, added ReadMe.md to Master branch to resolve the merge conflict
+
+Changed placeholder text in contact form
+Added a customer name to each review on the customers page
+Changed the capitalization from E-COMMERCE to E-Commerce on the services page

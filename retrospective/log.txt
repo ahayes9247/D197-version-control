@@ -1,0 +1,42 @@
+commit a46bdd5a9bb4e2d594e839f0c753daed4f6587f9
+Merge: 42d1947 442dd8c
+Author: ahayes9247 <hayes.amanda@outlook.com>
+Date:   Wed May 17 12:44:46 2023 +0100
+
+    Fixes merge conflict
+
+commit 42d1947926cc53f812d1b1481a3b61461c7260a9
+Author: ahayes9247 <hayes.amanda@outlook.com>
+Date:   Wed May 17 12:41:42 2023 +0100
+
+    Adds git version to ReadMe.md
+
+commit 442dd8c4d3cee54f48db233a757dac8300c4f7b7
+Author: ahayes9247 <hayes.amanda@outlook.com>
+Date:   Wed May 17 12:36:08 2023 +0100
+
+    Adds new branch and adds ReadMe.md to new branch
+
+commit f13d9fd3a5b3084322aa26fb69c5498c0619b2f0
+Author: ahayes9247 <hayes.amanda@outlook.com>
+Date:   Wed May 17 12:33:57 2023 +0100
+
+    Changes capitalization of E-COMMERCE
+
+commit e8b92f7f2dd89b043cf445f6f12ba9b030d9718d
+Author: ahayes9247 <hayes.amanda@outlook.com>
+Date:   Wed May 17 12:33:29 2023 +0100
+
+    Adds a customer name to each review
+
+commit af107f0c773be61127caf592a757f049b3be7b06
+Author: ahayes9247 <hayes.amanda@outlook.com>
+Date:   Wed May 17 12:32:22 2023 +0100
+
+    Changes placeholder text on contact form
+
+commit 95b6b09df016a9509c57df1b1186472f35bc0011
+Author: ahayes9247 <hayes.amanda@outlook.com>
+Date:   Wed May 17 12:29:10 2023 +0100
+
+    Initial commit
